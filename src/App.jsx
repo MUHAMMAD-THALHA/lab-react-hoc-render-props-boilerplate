@@ -1,6 +1,6 @@
 import './App.css';
-import LikeImage from './components/LikeImage';
-import LikePost from './components/LikePost';
+import LikeImage from './components/RenderProps/LikeImage';
+import LikePost from './components/RenderProps/LikePost';
 
 function App() {
   return (
